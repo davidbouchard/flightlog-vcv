@@ -12,5 +12,14 @@
   "sourceUrl": "",
   "donateUrl": "",
   "changelogUrl": "",
-  "modules": []
+  "modules": [
+    {
+      "slug": "16n",
+      "name": "16n",
+      "description": "16n faderbank interface",
+      "tags": [
+        "Controller"
+      ]
+    }
+  ]
 }
